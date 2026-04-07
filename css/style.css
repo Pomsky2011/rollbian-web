@@ -75,6 +75,13 @@ nav ul a {
 
 nav ul a:hover { color: var(--text); text-decoration: none; }
 
+.nav-soon {
+    color: var(--border);
+    font-size: 0.95rem;
+    cursor: not-allowed;
+    user-select: none;
+}
+
 /* ── Hero ───────────────────────────────────────────────────────────────────── */
 
 .hero {
